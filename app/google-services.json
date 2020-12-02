@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "328713377558",
+    "firebase_url": "https://databaseprototype-f3496.firebaseio.com",
+    "project_id": "databaseprototype-f3496",
+    "storage_bucket": "databaseprototype-f3496.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328713377558:android:a336068030c64124e52237",
+        "android_client_info": {
+          "package_name": "com.example.databaseprototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328713377558-5heu2lqt8u3r30fr5g3ismpcntrdppjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.databaseprototype",
+            "certificate_hash": "a8d29c2f79747ac78e39950abf73d32315905562"
+          }
+        },
+        {
+          "client_id": "328713377558-pvpbg7mfqabpdae6hroldacacg0g3f0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Tx9fnpf97mMU6g6Dd8IMOg1Ug6osp1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328713377558-pvpbg7mfqabpdae6hroldacacg0g3f0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328713377558:android:6c2ab53938d9a1bfe52237",
+        "android_client_info": {
+          "package_name": "com.example.myresturant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328713377558-pvpbg7mfqabpdae6hroldacacg0g3f0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Tx9fnpf97mMU6g6Dd8IMOg1Ug6osp1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328713377558-pvpbg7mfqabpdae6hroldacacg0g3f0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
